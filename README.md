@@ -5,10 +5,10 @@ Welcome to The Facebook Project. It aims to provide the following functionalitie
 1. Sign-up
     * Create Profile
 2. Sign-in
-    * Edit profile
-    * Delete profile
     * View profile
+    * Delete profile
     * View all profiles
+    * Edit profile
     * Search profiles
     * Sort profiles by names
     * Create timeline
