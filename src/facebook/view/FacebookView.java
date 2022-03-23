@@ -22,7 +22,7 @@ public class FacebookView {
 	   int mainAns=sc.nextInt();
 	   System.out.println();
 	   String ans1 = "y";
-	   
+	   //
 	   while (ans1.contentEquals("y")) {
 		   switch(mainAns) {
 		   		case 1 : 
